@@ -3,7 +3,7 @@ name: Ishank Chauhan
 bio: Amature Photographer 
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A blog about technology and politics.
 
 # if it's an external image, update below for true
 # better with square images
@@ -35,20 +35,20 @@ disqus:
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
-twitter: https://twitter.com/ishank_c
+twitter: ishank_c
 # google: mygoogle
-instagram: https://www.instagram.com/ishank_c/
+instagram: ishank_
 # pinterest: mypinterest
-linkedin: https://www.linkedin.com/in/ishank-chauhan-35341452/
+linkedin: ishank-chauhan-35341452
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/ishankc
+github: ishankc
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: https://medium.com/@ishank_c
+medium: @ishank_c
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: chauhanishank@outlook.com
