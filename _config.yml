@@ -37,7 +37,7 @@ disqus:
 #facebook: myfacebook
 twitter: ishank_c
 # google: mygoogle
-instagram: ishank_
+instagram: ishank_c
 # pinterest: mypinterest
 linkedin: ishank-chauhan-35341452
 # youtube: myyoutube
@@ -48,10 +48,11 @@ github: ishankc
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: @ishank_c
+medium: ishank_c
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: chauhanishank@outlook.com
+
 
 
 # do you want a larger site? change the option below
@@ -64,7 +65,7 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-#projects: true
+projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: true
@@ -77,13 +78,13 @@ read-time: true
 show-tags: false
 
 # related posts inside a post?
-related: false
+related: true
 
 # Display links for next and previous posts for the specified categories
 post-advance-links: [blog]
 
 # show author block at the end of a post ?
-show-author: false
+show-author: true
 
 # do you want some animations?
 animation: true
