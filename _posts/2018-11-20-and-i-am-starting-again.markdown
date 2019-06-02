@@ -2,7 +2,6 @@
 title: "And I am starting again"
 layout: post
 date: 2018-11-20 19:44
-image: /assets/images/markdown.jpg
 headerImage: false
 tag:
 - markdown
@@ -11,6 +10,7 @@ star: true
 category: blog
 author: ishank
 description: does it matter? 
+
 ---
 
 I am terrified of failing. So instead of participating and having a little chance of success, I back out with 0% chances of success. Below are the instances when I stopped learning because I feared that I will be unable to remember all the things.

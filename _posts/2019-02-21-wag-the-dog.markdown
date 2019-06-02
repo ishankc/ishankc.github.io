@@ -2,7 +2,6 @@
 title: "Wag the Dog"
 layout: post
 date: 2019-02-21 19:44
-image: /assets/images/markdown.jpg
 headerImage: false
 tag:
 - markdown
@@ -11,7 +10,10 @@ star: true
 category: blog
 author: ishank
 description: does it matter? 
+
 ---
+
+#heading
 
 The idea that the state can kill its own people to save their power is so outlandish. But they do. Because nationalism or patriotism sells and keeps the people diverted from core issues. Wag the Dog is the 1997 movie on this topic. (Recommend you to watch it)
 
