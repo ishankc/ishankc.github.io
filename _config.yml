@@ -1,9 +1,9 @@
 # main text of home
 name: Ishank Chauhan
-bio: Photographer 
+bio: Photographer and not sure about other things.  
 
 # twitter summary info
-description: A blog about technology and politics.
+description: A blog about anything. Depends on the mood.
 
 # if it's an external image, update below for true
 # better with square images
@@ -86,7 +86,7 @@ read-time: true
 show-tags: false
 
 # related posts inside a post?
-related: true
+related: false
 
 # Display links for next and previous posts for the specified categories
 post-advance-links: [blog]
