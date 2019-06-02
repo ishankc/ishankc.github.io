@@ -13,8 +13,6 @@ description: does it matter?
 
 ---
 
-#heading
-
 The idea that the state can kill its own people to save their power is so outlandish. But they do. Because nationalism or patriotism sells and keeps the people diverted from core issues. Wag the Dog is the 1997 movie on this topic. (Recommend you to watch it)
 
 One analogy that I came across is that the government is like a management firm which is hired by people for five years. Their only purpose is to make money and get elected for the next five years. They think micro. But to build a nation it takes at least 20–30 years, China for example. Major investment is required in the Education and Health Sector to drive the nation towards development. The tragedy is that these investment show return after 12–15 years due to which they are not given noteworthy attention by the government. This can’t ensure the next term. Their bet is on development which people can see and feel. Building new roads and providing electricity affects the majority more than anything. If they are caught on core issues like unemployment, farmer distress or corruption, they use nationalism and religion to divert us.
@@ -25,5 +23,3 @@ War can never be the solution. Why? Because casualties are on both sides. Lakhs 
 
 When you don't agree with someone, try to observe things from their perspective instead of going into a argument. 
 Maybe you both are correct.
-
----
