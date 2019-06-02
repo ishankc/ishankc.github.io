@@ -53,6 +53,14 @@ medium: ishank_c
 # lanyrd: mylanyrd
 email: chauhanishank@outlook.com
 
+authors:
+    ishank:
+        name: Ishank Chauhan
+        bio: Tamasha is underrated af.
+        external-image: false
+        picture: assets/images/profile.jpg
+        twitter: ishank_c
+
 
 
 # do you want a larger site? change the option below
